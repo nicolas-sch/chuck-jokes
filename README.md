@@ -1,3 +1,12 @@
+# Description
+
+This project showcases the best chuck norris jokes.
+
+# Dependencies
+
+In this project we use axios and styled components as dependencies.
+Run npm install to install all dependencies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
